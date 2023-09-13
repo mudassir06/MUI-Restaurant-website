@@ -26,22 +26,19 @@ const Footer = () => {
         >
           <a
             href="https://www.facebook.com/mms.balti"
-            target="_blank"
-            style={{ color: "inherit", textDecoration: "none" }}
+                         style={{ color: "inherit", textDecoration: "none" }}
           >
             <FacebookIcon />
           </a>
           <a
             href="https://www.instagram.com/muda7r_mehdi06/"
-            target="_blank"
-            style={{ color: "inherit", textDecoration: "none" }}
+                         style={{ color: "inherit", textDecoration: "none" }}
           >
             <InstagramIcon />
           </a>
           <a
             href="https://www.instagram.com/muda7r_mehdi06/"
-            target="_blank"
-            style={{ color: "inherit", textDecoration: "none" }}
+                         style={{ color: "inherit", textDecoration: "none" }}
           >
             <YouTubeIcon />
           </a>
